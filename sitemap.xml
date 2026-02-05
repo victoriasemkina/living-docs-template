@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://victoriasemkina.github.io/living-docs-template/</loc>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
+         <loc>https://victoriasemkina.github.io/living-docs-template/architecture/overview/</loc>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
+         <loc>https://victoriasemkina.github.io/living-docs-template/architecture/adr/</loc>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
+         <loc>https://victoriasemkina.github.io/living-docs-template/best-practices/naming/</loc>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
+         <loc>https://victoriasemkina.github.io/living-docs-template/guides/writing-tests/</loc>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+</urlset>
