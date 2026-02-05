@@ -1,0 +1,16 @@
+site_name: Living Docs Template
+site_description: Шаблон living documentation для QA-фреймворка
+site_url: https://victoriasemkina.github.io/living-docs-template/
+
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Архитектура:
+      - Обзор: architecture/overview.md
+      - ADR: architecture/adr/index.md
+  - Гайды:
+      - Написание тестов: guides/writing-tests.md
+  - Best Practices:
+      - Именование: best-practices/naming.md
